@@ -1,11 +1,11 @@
-baseURL = "http://yashlala.github.io/"
+baseURL = "https://yashlala.github.io/"
+relativeURLs = true
 languageCode = "en-us"
-title = "Yash Lala"
 publishdir = "build"
-
-theme = "hermit"
-
 GitInfo = true
+
+title = "Yash Lala"
+theme = "hermit"
 
 # Automatically syntax-highlight code blocks.
 pygmentsCodefences  = true
