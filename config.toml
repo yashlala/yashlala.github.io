@@ -1,6 +1,7 @@
 baseURL = "http://yashlala.github.io/"
 languageCode = "en-us"
 title = "Yash Lala"
+publishdir = "build"
 
 theme = "hermit"
 
