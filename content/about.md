@@ -21,6 +21,6 @@ colors or styling.
 If you have feedback or just want to chat, feel free to contact me via the
 links at the bottom of the page!
 
-{{< figure src="/img/yash.jpg" 
+{{< figure src="/img/yash.png" 
 alt="Yash Lala's face (and upper torso)" 
 caption="My face." >}}
