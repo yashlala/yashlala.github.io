@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yash Lala</title>
-    <link>http://yashlala.github.io/</link>
+    <link>https://yashlala.github.io/</link>
     <description>Recent content on Yash Lala</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://yashlala.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://yashlala.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>http://yashlala.github.io/about/</link>
+      <link>https://yashlala.github.io/about/</link>
       <pubDate>Wed, 02 Dec 2020 12:15:53 -0800</pubDate>
       
-      <guid>http://yashlala.github.io/about/</guid>
+      <guid>https://yashlala.github.io/about/</guid>
       <description>My name is Yash Lala. I am a now third-year CS undergraduate student at UCLA. My interests include parallel computation, distributed system design, and climbing.
 My resume can be accessed via my GitHub, or via this link.
 As of 2020-12-02, this page is still under construction. I&amp;rsquo;ve just migrated from my first &amp;ldquo;manual&amp;rdquo; website attempt to a hugo-based setup. This templated version should be considerably easier to maintain in the long run, but may have some rough spots for now.</description>
