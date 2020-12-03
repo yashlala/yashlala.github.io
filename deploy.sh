@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/sh -e
 
 hugo
 cd build
