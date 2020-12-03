@@ -64,6 +64,11 @@ pygmentsUseClasses  = true
     url = "about/"
     weight = 10
 
+  [[menu.main]]
+    name = "Resume"
+    url = "https://github.com/yashlala/resume/blob/master/resume.pdf"
+    weight = 20
+
   # [[menu.main]]
   #   name = "Blog Posts"
   #   url = "posts/"
